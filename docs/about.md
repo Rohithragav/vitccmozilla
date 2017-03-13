@@ -1,7 +1,7 @@
 ---
 layout: page
 navigation_title: About
-title: About VIT Chennai OpenSource Club 
+title: About VIT Chennai OpenSource Club  
 permalink: /about/
 cover: 'https://mozillatn.github.io/clubs/assets/mozilla-tn-bannerc.png'
 ---
